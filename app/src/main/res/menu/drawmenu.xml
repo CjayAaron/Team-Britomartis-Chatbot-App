@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/db" android:title="Dashboard" android:icon="@drawable/ic_dashboard_black_24dp"/>
+        <item android:id="@+id/edit" android:title="Edit" android:icon="@drawable/ic_edit_black_24dp"/>
+        <item android:id="@+id/chatbot" android:title="ChatBot" android:icon="@drawable/ic_chat_black_24dp"/>
+        <item android:id="@+id/exi" android:title="Exit" android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+    </group>
+</menu>
